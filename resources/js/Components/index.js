@@ -1,0 +1,16 @@
+export { default as Navbar } from "./Navbar";
+export { default as HeroSection } from "./HeroSection";
+export { default as Services } from "./Services";
+export { default as Testimonials } from "./Testimonials";
+export { default as ReasonSection } from "./ReasonSection";
+export { default as QuoteSection } from "./QuoteSection";
+export { default as Footer } from "./Footer";
+export { default as ServiceHeroSection } from "./Services/ServiceHeroSection";
+export { default as DesignSection } from "./Services/DesignSection";
+export { default as DevelopmentSection } from "./Services/DevelopmentSection";
+export { default as ProgressHeroSection } from "./OurProgress/ProgressHeroSection";
+export { default as ProgressDetail } from "./OurProgress/ProgressDetail";
+export { default as Timeline } from "./Timeline/Timeline";
+export { default as ContactForm } from "./ContactForm";
+export { default as ContactModel } from "./ContactModel";
+export { default as ThanksModel } from "./ThanksModel";
